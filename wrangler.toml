@@ -1,0 +1,8 @@
+name = "midnight-finance-ia"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://SEU-USUARIO.github.io"
+# MODEL = "claude-sonnet-5-5"
+# Segredos (não ficam no arquivo): wrangler secret put ANTHROPIC_API_KEY / APP_TOKEN
