@@ -1,0 +1,10 @@
+{
+  "name": "midnight-finance",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Midnight Finance: PWA de finanças pessoais (dados salvos só no aparelho)",
+  "scripts": {
+    "start": "npx --yes serve@14.2.4 -l 8080 ."
+  },
+  "license": "UNLICENSED"
+}
